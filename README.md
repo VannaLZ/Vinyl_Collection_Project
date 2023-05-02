@@ -1,7 +1,8 @@
 # Vynil_Collection_Project
 
 ![Alt Text](https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Freddy_Vynil.png)
-<img src="[image_url](https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Freddy_Vynil.png)" alt="Freddy_Vinyl" width="50%">
+<img src="[image_url](https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Freddy_Vynil.png)" width="50%">
+
 
 
 <p style="text-align: justify;">
