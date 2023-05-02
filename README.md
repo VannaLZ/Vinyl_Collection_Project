@@ -1,6 +1,6 @@
 # Vynil_Collection_Project
 
-![Alt Text](https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Freddy_Vynil.png)
+![Alt Text](https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Freddy_Vynil.png){: width="50%"}
 
 <p style="text-align: justify;">
 :wave: Hi there! I recently completed a Data bootcamp where I gained a strong foundation in *Data Analysis* and related skills. During the course, we had the opportunity to discuss potential projects with a professor.
