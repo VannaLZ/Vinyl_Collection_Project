@@ -11,7 +11,7 @@ Therefore, I started a project on GitHub :octocat: to keep track of my progress 
 <p style="text-align: justify;">
 This project will focus on creating a catalog of my vinyl collection 🎶, which will include various attributes such as artist, album title, release year, and condition. 
 <p style="text-align: justify;">
-Additionally, I plan to explore different analytical techniques to gain insights into my collection, such as identifying the most popular artists or tracking the value of certain albums :bagmoney:.
+Additionally, I plan to explore different analytical techniques to gain insights into my collection, such as identifying the most popular artists or tracking the value of certain albums :moneybag:.
 <p style="text-align: justify;">
 I am excited to embark on this project and share my progress with the GitHub community. Stay tuned for updates! :rocket::notes:.
 
