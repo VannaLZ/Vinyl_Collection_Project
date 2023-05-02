@@ -1,8 +1,6 @@
 # Vynil_Collection_Project
 
-
-<img src="[image_url](https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Freddy_Vynil.png)" width="50%">
-
+![Alt Text](https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Freddy_Vynil.png)
 
 
 <p style="text-align: justify;">
