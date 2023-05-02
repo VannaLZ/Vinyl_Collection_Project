@@ -1,3 +1,3 @@
 # Vynil_Collection_Project
 
-![Alt Text](image_url)
+![Alt Text](https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Freddy%20on%20Vynil.png)
