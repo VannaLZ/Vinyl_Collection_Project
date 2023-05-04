@@ -25,9 +25,9 @@ I am excited to embark on this project and share my progress with the GitHub com
       <li>Use these lists to collect information about tracks such as title, album, time, etc.</li>
     </ul>
   </li>
-  <li>Create a list in <i><a href="https://www.discogs.com/">Discogs</a></i> to store informationon the vinyl collection.
+  <li>Create a list in <i><a href="https://www.discogs.com/">Discogs</a></i> to store information on the vinyl collection.
     <ul>
-      <li>Include information on the vinyl's genre, style, recorded studio, recorded year, and more directly from the webpage </li>
+      <li>Include information on the vinyl's genre, style, recorded studio, recorded year, and more. It can be done directly from the webpage </li>
       <li>The <i><a href="https://www.discogs.com/">Discogs</a></i> gave the opportunity to create <i>ad hoc</i> columns with info that can be downloaded in a CSS format.</li>
     </ul>
   </li>
