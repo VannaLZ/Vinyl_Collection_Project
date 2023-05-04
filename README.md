@@ -1,6 +1,7 @@
 <img align="left" width="250" src="https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Freddy_Vynil.png" />
 
 # Vynil_Collection_Project 
+
 <p align='justify'>
 :wave: Hi there! I recently completed a Data Analytics bootcamp where I gained a strong foundation in <i>Data Analysis</i> and related skills. During the course, we had the opportunity to discuss potential projects with a professor. Initially, I had a different idea in mind, but as I progressed, my interests evolved, and I decided to pursue something I am truly passionate about - <b>music</b> :musical_score: and <b>vinyl</b> 🟣🟢🔵🟡🎵.
 </p>
@@ -18,7 +19,7 @@ I am excited to embark on this project and share my progress with the GitHub com
 </p>
 
 <details>
-<summary>"Data Collection"</summary>
+<summary>"Data Collection" </summary>
 <ol>
   <li>Create lists in <i><a href="https://open.spotify.com/">Spotify</a></i> with all the albums in the collection.
     <ul>
@@ -33,3 +34,6 @@ I am excited to embark on this project and share my progress with the GitHub com
   </li>
 </ol>
 </details>
+
+
+###### :construction::construction_worker::hammer_and_wrench:"Work in Progress":construction_worker::hammer_and_wrench::construction:
