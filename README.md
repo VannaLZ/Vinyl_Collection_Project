@@ -19,9 +19,17 @@ I am excited to embark on this project and share my progress with the GitHub com
 
 <details>
 <summary>"Data Collection"</summary>
-1. [ ] Create a list in <i>Spotify</i> with all the albums I have in my collection.
-  - These lists will be used for the tracks info (title, album, time etc.) 
-2. [ ] Create a list in <i>[Discogs](https://www.discogs.com/)</i> 
-  - These lists will collect info on the vinyl (genre, style, recorded studio, recorded year)
-  - The <i>[Discogs](https://www.discogs.com/)</i> gave the opportunity to create <i>ad hoc</i> columns with info that can be downloaded in a CSS format.
+<ol>
+  <li>Create lists in <i><a href="https://open.spotify.com/">Spotify</a></i> with all the albums in the collection.
+    <ul>
+      <li>Use these lists to collect information about tracks such as title, album, time, etc.</li>
+    </ul>
+  </li>
+  <li>Create a list in <i><a href="https://www.discogs.com/">Discogs</a></i> to store informationon the vinyl collection.
+    <ul>
+      <li>Include information on the vinyl's genre, style, recorded studio, recorded year, and more directly from the webpage </li>
+      <li>The <i><a href="https://www.discogs.com/">Discogs</a></i> gave the opportunity to create <i>ad hoc</i> columns with info that can be downloaded in a CSS format.</li>
+    </ul>
+  </li>
+</ol>
 </details>
