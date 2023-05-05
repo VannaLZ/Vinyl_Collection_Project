@@ -35,5 +35,27 @@ I am excited to embark on this project and share my progress with the GitHub com
 </ol>
 </details>
 
+<details>
+<summary>"Spotify API" </summary>
+<ol>
+  <li>Install Python by downloading and running the installer from the official Python website: <i><a href=https://www.python.org/downloads/">Python</a></i>.</li>
+  <li>Install the required libraries by running the following commands in your terminal or command prompt:</li>
+  <pre><code>pip install pandas
+pip install spotipy
+pip install python-dotenv</code></pre>
+  <li>Import the necessary modules at the beginning of your Python script using the following code:</li>
+  <pre><code>import sys</code>
+import pandas as pd</code></li>
+import spotipy</code></li>
+from spotipy.oauth2 import SpotifyClientCredentials</code></li>
+import os</code></li>
+from dotenv import load_dotenv</code></pre></li>
+  <li>Store your Spotify API credentials in a .env file in the same directory as your Python script. The .env file should contain the following information:</li>
+  <pre><code>client_id=&lt;your_client_id&gt;
+client_secret=&lt;your_client_secret&gt;</code></pre></li>
+
+All the above can be found at the beginning of the 
+<i><a href="https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Spotify/Spotify_Function_Extract.ipynb">Spotify_Function_Extract</a></i>
+
 
 ###### :construction::construction_worker::hammer_and_wrench:"Work in Progress":construction_worker::hammer_and_wrench::construction:
