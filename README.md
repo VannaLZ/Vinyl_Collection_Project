@@ -53,9 +53,6 @@ from dotenv import load_dotenv</code></pre></li>
   <li>Store your Spotify API credentials in a .env file in the same directory as your Python script. The .env file should contain the following information:</li>
   <pre><code>client_id=&lt;your_client_id&gt;
 client_secret=&lt;your_client_secret&gt;</code></pre></li>
-
-All the above can be found at the beginning of the 
-<i><a href="https://github.com/VannaLZ/Vynil_Collection_Project/blob/main/Spotify/Spotify_Function_Extract.ipynb">Spotify_Function_Extract</a></i>
-
-
-###### :construction::construction_worker::hammer_and_wrench:"Work in Progress":construction_worker::hammer_and_wrench::construction:
+</ol>
+</details>
+:construction::construction_worker::hammer_and_wrench:"Work in Progress":construction_worker::hammer_and_wrench::construction:
