@@ -1,5 +1,7 @@
 
-###### "I'm on the road to data exploration, and while I'm still gathering info, I've already started to rock some formulas and do a little <i>'Bohemian Rhapsody'</i> with some exploratory data analysis (EDA). It's early days, and my README isn't quite <i>'Under Pressure'</i> yet, but I'm jamming on this project like <i>'Another One Bites the Dust'</i>. One idea I have is to create a Tableau page that's as visually stunning as <i>'Radio Ga Ga'</i>, but I know that the journey ahead is full of 'Challenges' that I'm ready to face like a true champion with <i>'We Will Rock You'</i> spirit. <i>'The Show Must Go On'</i>, and I'm excited to see where this journey takes me!"  
+
+
+###### "I'm on the road to data exploration, and while I'm still gathering info, I've already started to rock some formulas and do a little <i>'Bohemian Rhapsody'</i> with some exploratory data analysis (EDA). It's early days, and my README isn't quite <i>'Under Pressure'</i> yet, but I'm jamming on this project like <i>'Another One Bites the Dust'</i>. One idea I have is to create a Tableau page that's as visually stunning as <i>'Radio Ga Ga'</i>, but I know that the journey ahead is full of 'Challenges' that I'm ready to face like a true champion with <i>'We Will Rock You'</i> spirit. <i>'The Show Must Go On'</i>, and I'm excited to see where this journey takes me!" 
 
 ###
 
@@ -66,5 +68,13 @@ client_secret=&lt;your_client_secret&gt;</code></pre></li>
 </ol>
 </details>
 <p align='justify'>
-:construction::construction_worker::hammer_and_wrench:"Work in Progress":construction_worker::hammer_and_wrench::construction:
+:construction::construction::construction_worker::hammer_and_wrench:"Work in Progress":hammer_and_wrench::construction_worker::construction::construction:
 </p>
+
+<p>
+    <img align="left" width="100" src="https://media.giphy.com/media/SkWgtdk744JGXwKrhV/giphy.gif" alt="Data exploration">
+    <img align="left" width="100" src="https://media.giphy.com/media/SkWgtdk744JGXwKrhV/giphy.gif" alt="Data exploration">
+    <img align="left" width="100" src="https://media.giphy.com/media/SkWgtdk744JGXwKrhV/giphy.gif" alt="Data exploration">
+</p>
+
+
