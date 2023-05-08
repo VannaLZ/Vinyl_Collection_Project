@@ -3,7 +3,7 @@
 # Vinyl_Collection_Project 
 
 <p style="text-align:justify">
-    :wave: Hi there! I recently completed a Data Analytics bootcamp where I gained a strong foundation in <i>Data Analysis</i> and related skills. During the course, we had the opportunity to discuss potential projects with a professor. Initially, I had a different idea in mind, but as I progressed, my interests evolved, and I decided to pursue something I am truly passionate about - <b>music</b> :musical_score: and <b>vinyl</b><img align="right" width="25" src="https://github.com/VannaLZ/Vinyl_Collection_Project/blob/main/Pictures/vinyl_1.png" /><img align="right" width="25" src="https://github.com/VannaLZ/Vinyl_Collection_Project/blob/main/Pictures/vinyl_1.png" />🎵.
+    :wave: Hi there! I recently completed a Data Analytics bootcamp where I gained a strong foundation in <i>Data Analysis</i> and related skills. During the course, we had the opportunity to discuss potential projects with a professor. Initially, I had a different idea in mind, but as I progressed, my interests evolved, and I decided to pursue something I am truly passionate about - <b>music</b> :musical_score: and <b>vinyl</b>🎵.
 </p>
 
 
