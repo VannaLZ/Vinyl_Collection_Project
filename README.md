@@ -1,4 +1,4 @@
-<img align="left" width="240" src="https://github.com/VannaLZ/Vinyl_Collection_Project/blob/main/Pictures/Freddy_Vinyl.png" />
+<img align="left" width="230" src="https://github.com/VannaLZ/Vinyl_Collection_Project/blob/main/Pictures/Freddy_Vinyl.png" />
 
 # Vinyl_Collection_Project 
 
