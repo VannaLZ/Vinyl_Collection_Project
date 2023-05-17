@@ -1,4 +1,4 @@
-<img align="left" width="230" src="https://github.com/VannaLZ/Vinyl_Collection_Project/blob/main/Pictures/Freddy_Vinyl.png" />
+<img align="left" width="300" src="https://github.com/VannaLZ/Vinyl_Collection_Project/blob/main/Pictures/Freddy_Vinyl.png" />
 
 # Vinyl_Collection_Project 
 
@@ -19,10 +19,7 @@ This project will focus on creating a catalog of my vinyl collection 🎶, which
 Additionally, I plan to explore different analytical techniques to gain insights into my collection, such as identifying the most popular artists or tracking the value of certain albums :moneybag:.
 </p>
 <p align='justify'>
-I am excited to embark on this project and share my progress with the GitHub community.
-</p>
-<p align='justify'>
-Stay tuned for updates! :rocket::notes:.
+I am excited to embark on this project and share my progress with the GitHub community.Stay tuned for updates! :rocket::notes:.
 </p>
 
 <details>
