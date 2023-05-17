@@ -47,6 +47,25 @@ I am excited to embark on this project and share my progress with the GitHub com
 </details>
 
 <details>
+<summary>"Discogs API" </summary>
+<ol>
+  <li>Install Python by downloading and running the installer from the official Python website: <i><a href=https://www.python.org/downloads/">Python</a></i>.</li>
+  <li>Install the required libraries by running the following commands in your terminal or command prompt:</li>
+  <pre><code>pip install requests
+pip install python-dotenv</code></pre>
+  <li>Import the necessary modules at the beginning of your Python script using the following code:</li>
+  <pre><code>import os</code>
+import requests</code></li>
+import json</code></li>
+from dotenv import load_dotenv</code></pre></li>
+  <li>Store your Discogs API credentials in a .env file in the same directory as your Python script. The .env file should contain the following information:</li>
+  <pre><code>username=&lt;Discogs_Username&gt;
+api_token=&lt;Discogs_Api_Token&gt;</code></pre></li>
+  <li>Refer to the Discogs Developer Documentation for information on how to use the Discogs API: <i><a href=https://www.discogs.com/developers/#page:home>Web API Documentation Discogs</a></i>.</li>
+</ol>
+</details>    
+    
+<details>
 <summary>"Spotify API" </summary>
 <ol>
   <li>Install Python by downloading and running the installer from the official Python website: <i><a href=https://www.python.org/downloads/">Python</a></i>.</li>
@@ -66,15 +85,17 @@ from dotenv import load_dotenv</code></pre></li>
 client_secret=&lt;your_client_secret&gt;</code></pre></li>
   <li>Refer to the Spotify Developer Documentation for information on how to use the Spotify API: <i><a href=https://developer.spotify.com/documentation/web-api>Web API Documentation Spotify</a></i>.</li>
 </ol>
-</details>
+</details>    
+    
 <p align='justify'>
 :construction::construction::construction_worker::hammer_and_wrench:"Work in Progress":hammer_and_wrench::construction_worker::construction::construction:
-</p>
-
+</p>  
+    
 <p>
     <img align="left" width="100" src="https://media.giphy.com/media/SkWgtdk744JGXwKrhV/giphy.gif" alt="Data exploration">
     <img align="left" width="100" src="https://media.giphy.com/media/SkWgtdk744JGXwKrhV/giphy.gif" alt="Data exploration">
     <img align="left" width="100" src="https://media.giphy.com/media/SkWgtdk744JGXwKrhV/giphy.gif" alt="Data exploration">
 </p>
 
+    
 
