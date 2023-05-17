@@ -10,7 +10,7 @@
 <p align='justify'>
 Therefore, I started a project on GitHub :octocat: to keep track of my progress and to continue learning and exercising my skills in this field. While the project may not be what I had initially envisioned, the main objective is to use the knowledge I gained from the bootcamp and to dedicate my time to something I am truly interested in. By doing so, I hope to learn new things, refine my skills, and ultimately achieve personal growth. :muscle:.
 </p>
-<img align="right" width="600" src="https://github.com/VannaLZ/Vinyl_Collection_Project/blob/main/Pictures/Vinyl_Collection.png" />
+<img align="right" width="580" src="https://github.com/VannaLZ/Vinyl_Collection_Project/blob/main/Pictures/Vinyl_Collection.png" />
 
 <p align='justify'>
 This project will focus on creating a catalog of my vinyl collection 🎶, which will include various attributes such as artist, album title, release year, and condition. 
