@@ -85,9 +85,9 @@ client_secret=&lt;your_client_secret&gt;</code></pre></li>
 </p>  
     
 <p>
-    <img align="left" width="100" src="https://media.giphy.com/media/SkWgtdk744JGXwKrhV/giphy.gif" alt="Data exploration">
-    <img align="left" width="100" src="https://media.giphy.com/media/SkWgtdk744JGXwKrhV/giphy.gif" alt="Data exploration">
-    <img align="left" width="100" src="https://media.giphy.com/media/SkWgtdk744JGXwKrhV/giphy.gif" alt="Data exploration">
+    <img align="left" width="100" src="https://media.giphy.com/media/2Lp9c7ohssqPbAW6bg/giphy.gif" alt="Data exploration">
+    <img align="left" width="100" src="https://media.giphy.com/media/2Lp9c7ohssqPbAW6bg/giphy.gif" alt="Data exploration">
+    <img align="left" width="100" src="https://media.giphy.com/media/2Lp9c7ohssqPbAW6bg/giphy.gif" alt="Data exploration">
 </p>
 
     
