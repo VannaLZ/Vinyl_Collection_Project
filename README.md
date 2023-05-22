@@ -79,7 +79,27 @@ client_secret=&lt;your_client_secret&gt;</code></pre></li>
   <li>Refer to the Spotify Developer Documentation for information on how to use the Spotify API: <i><a href=https://developer.spotify.com/documentation/web-api>Web API Documentation Spotify</a></i>.</li>
 </ol>
 </details>    
-    
+
+# Index
+- **`Discogs`** - [Folder](https://github.com/VannaLZ/Vinyl_Collection_Project/tree/45b6123e8b833ab38520818d4f6b6d0e7354b74a/Discogs)
+    - Discogs_API - [Folder](https://github.com/VannaLZ/Vinyl_Collection_Project/tree/45b6123e8b833ab38520818d4f6b6d0e7354b74a/Discogs/Discogs_API)
+      - [Discogs_API](https://github.com/VannaLZ/Vinyl_Collection_Project/blob/45b6123e8b833ab38520818d4f6b6d0e7354b74a/Discogs/Discogs_API/Discogs_API.ipynb)
+      - [data.json](https://github.com/VannaLZ/Vinyl_Collection_Project/blob/45b6123e8b833ab38520818d4f6b6d0e7354b74a/Discogs/Discogs_API/data.json)
+    - Discogs_EDA
+    - Discogs_Export
+- **`Pictures`**
+    - [Freddy_Vinyl](https://github.com/VannaLZ/Vinyl_Collection_Project/blob/45b6123e8b833ab38520818d4f6b6d0e7354b74a/Pictures/Freddy_Vinyl.png)
+    - [Vinyl_Collection](https://github.com/VannaLZ/Vinyl_Collection_Project/blob/45b6123e8b833ab38520818d4f6b6d0e7354b74a/Pictures/Vinyl_Collection.png)
+- **`Spotify`**
+    - Spotify_EDA
+    - Spotify_Playlist
+    - Spotify_Test
+    - Spotify_Function_Extract
+
+***
+
+***
+
 <p align='justify'>
 :construction::construction::construction_worker::hammer_and_wrench:"Work in Progress":hammer_and_wrench::construction_worker::construction::construction:
 </p>  
