@@ -81,10 +81,10 @@ client_secret=&lt;your_client_secret&gt;</code></pre></li>
 </details>    
 
 # Index
-- **`Discogs`** - [Folder](https://github.com/VannaLZ/Vinyl_Collection_Project/tree/45b6123e8b833ab38520818d4f6b6d0e7354b74a/Discogs)
-    - Discogs_API - [Folder](https://github.com/VannaLZ/Vinyl_Collection_Project/tree/45b6123e8b833ab38520818d4f6b6d0e7354b74a/Discogs/Discogs_API)
-      - [Discogs_API](https://github.com/VannaLZ/Vinyl_Collection_Project/blob/45b6123e8b833ab38520818d4f6b6d0e7354b74a/Discogs/Discogs_API/Discogs_API.ipynb)
-      - [data.json](https://github.com/VannaLZ/Vinyl_Collection_Project/blob/45b6123e8b833ab38520818d4f6b6d0e7354b74a/Discogs/Discogs_API/data.json)
+- **`Discogs`** 
+    - Discogs_API -
+      - [Discogs_API]()
+      - [data.json]()
     - Discogs_EDA
     - Discogs_Export
 - **`Pictures`**
